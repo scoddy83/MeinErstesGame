@@ -1,0 +1,3 @@
+# Projektmanagement
+Kanban.md
+.obsidian/
