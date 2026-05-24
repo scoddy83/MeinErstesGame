@@ -1,15 +1,21 @@
 ---
+
 kanban-plugin: board
 created: 2026-05-21T20:52
 Last update: 2026-05-21T23:43
+
 ---
 
 ## Backlog
 
-- [ ] [[ISSUE-001 — Entwicklungsumgebung aufsetzen]]
-- [ ] [[ISSUE-002 — Modernes C++ Grundlagen üben]]
 - [ ] [[ISSUE-003 — GLFW Fenster + erstes Vulkan Dreieck]]
 - [ ] [[ISSUE-004 — Texturierter Sprite-Renderer + orthografische Kamera]]
+- [ ] [[ISSUE-005 — Sprite Batching]]
+- [ ] [[ISSUE-006 — ECS Integration mit entt]]
+- [ ] [[ISSUE-007 — AssetManager mit Handle-basiertem Caching]]
+- [ ] [[ISSUE-008 — Tiled Tilemap laden und rendern]]
+- [ ] [[ISSUE-009 — Fixed Timestep Game Loop]]
+- [ ] [[ISSUE-010 — Audio-System mit miniaudio]]
 
 
 ## Analyse
@@ -18,7 +24,7 @@ Last update: 2026-05-21T23:43
 
 ## In Progress
 
-- [ ] [[ISSUE-000 — Projekt aufsetzen]]
+- [ ] [[ISSUE-002 — Modernes C++ Grundlagen üben]]
 
 
 ## Testing
@@ -27,6 +33,8 @@ Last update: 2026-05-21T23:43
 
 ## Done
 
+- [ ] [[ISSUE-000 — Projekt aufsetzen]]
+- [ ] [[ISSUE-001 — Entwicklungsumgebung aufsetzen]]
 
 
 

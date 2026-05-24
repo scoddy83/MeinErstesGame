@@ -57,13 +57,13 @@ ISSUE-001 — Entwicklungsumgebung aufsetzen
 
 ## Ressourcen
 
-| Thema | Link |
-|---|---|
-| Pflichtlektüre | *Effective Modern C++* — Scott Meyers |
-| C++ YouTube-Serie | [The Cherno — C++ Series](https://www.youtube.com/@TheCherno) |
+| Thema                | Link                                                                       |
+| -------------------- | -------------------------------------------------------------------------- |
+| Pflichtlektüre       | *Effective Modern C++* — Scott Meyers                                      |
+| C++ YouTube-Serie    | [The Cherno — C++ Series](https://www.youtube.com/@TheCherno)              |
 | RAII & Smart Pointer | [The Cherno — Smart Pointers](https://www.youtube.com/watch?v=UOB7-B2MfwA) |
-| Move Semantics | [The Cherno — Move Semantics](https://www.youtube.com/watch?v=ehMg6zvXuMY) |
-| C++ Referenz | [cppreference.com](https://en.cppreference.com) |
+| Move Semantics       | [The Cherno — Move Semantics](https://www.youtube.com/watch?v=ehMg6zvXuMY) |
+| C++ Referenz         | [cppreference.com](https://en.cppreference.com)                            |
 
 ## Mentor-Hinweis
 

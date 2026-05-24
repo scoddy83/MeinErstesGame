@@ -32,7 +32,7 @@ Guthub als Zentrales Versionierungs und Sicherung aufsetzten.
 - [x] Github Repo MeinErstesGame
 - [x] README File angelgt inkl. Beschreibung
 - [x] Ordnerstruktur (`src/`, `assets/`, `docs/`) liegt auf GitHub
-- [ ] Github Plugin in Obsidan installiert und getested
+- [x] Github Plugin in Obsidan installiert und getested
 
 ## Blocked by
 
@@ -57,9 +57,9 @@ Nichts — kann sofort gestartet werden.
 - [x] **Task 12:** `README.md` mit Kurzbeschreibung des Projekts anlegen
 - [x] **Task 13:** `.gitignore` erstellen — `Kanban.md` und Obsidian-Systemdateien (`.obsidian/`) ausschliessen
 - [x] **Task 14:** `docs/` Ordner im Repo anlegen und `PRD.md` + `Issues/` hineinkopieren
-- [ ] **Task 15:** Obsidian Git Plugin installieren und konfigurieren (Auto-Commit alle 30 Min. oder beim Schliessen)
-- [ ] **Task 16:** Obsidian Vault mit GitHub Repo verbinden (Remote URL setzen)
-- [ ] **Task 17:** Ersten Commit pushen und auf GitHub prüfen
+- [x] **Task 15:** Obsidian Git Plugin installieren und konfigurieren (Auto-Commit alle 30 Min. oder beim Schliessen)
+- [x] **Task 16:** Obsidian Vault mit GitHub Repo verbinden (Remote URL setzen)
+- [x] **Task 17:** Ersten Commit pushen und auf GitHub prüfen
 
 ## Ressourcen
 

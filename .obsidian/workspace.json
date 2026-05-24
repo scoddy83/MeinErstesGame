@@ -10,6 +10,7 @@
           {
             "id": "5dbdff3b768536fe",
             "type": "tabs",
+            "dimension": 79.63340122199592,
             "children": [
               {
                 "id": "ac866a3c33d5d4c3",
@@ -38,6 +39,7 @@
           {
             "id": "df0f90f8ba707558",
             "type": "tabs",
+            "dimension": 20.366598778004075,
             "children": [
               {
                 "id": "18f4bd176e6fd5c0",
@@ -76,8 +78,8 @@
                     }
                   },
                   "pinned": true,
-                  "icon": "terminal",
-                  "title": "Terminal: C:\\Windows\\System32\\conhost.exe"
+                  "icon": "lucide-ghost",
+                  "title": "terminal:terminal"
                 }
               }
             ]
@@ -254,15 +256,18 @@
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
-      "bases:Neue Base erstellen": false,
-      "terminal:Open terminal": false
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "066e6cc50986c4fd",
+  "active": "ac866a3c33d5d4c3",
   "lastOpenFiles": [
+    "docs/Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
+    "docs/Issues/ISSUE-000 — Projekt aufsetzen.md",
+    "docs/Issues/ISSUE-003 — GLFW Fenster + erstes Vulkan Dreieck.md",
     "docs/Kanban Board.md",
-    "Unbenanntes Kanban.md",
+    "docs/Issues/ISSUE-002 — Modernes C++ Grundlagen üben.md",
     "PRD.md",
+    "Unbenanntes Kanban.md",
     "docs/Issues/ISSUE-021 — Release-Build + exe Distribution.md",
     "docs/Issues/ISSUE-020 — Spiel-Audio Sprung Münze Game Over.md",
     "docs/Issues/ISSUE-019 — GameStateManager.md",
@@ -281,11 +286,7 @@
     "docs/Issues/ISSUE-006 — ECS Integration mit entt.md",
     "docs/Issues/ISSUE-005 — Sprite Batching.md",
     "docs/Issues/ISSUE-004 — Texturierter Sprite-Renderer + orthografische Kamera.md",
-    "docs/Issues/ISSUE-003 — GLFW Fenster + erstes Vulkan Dreieck.md",
-    "docs/Issues/ISSUE-002 — Modernes C++ Grundlagen üben.md",
-    "docs/Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
     "Claude/obsidian-projektmanagement-setup.md",
-    "Claude/projektplan.md",
     "Claude",
     "docs/Issues",
     "src/dummy",
