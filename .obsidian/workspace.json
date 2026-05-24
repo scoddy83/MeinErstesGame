@@ -16,22 +16,10 @@
                 "id": "ac866a3c33d5d4c3",
                 "type": "leaf",
                 "state": {
-                  "type": "kanban",
-                  "state": {
-                    "file": "docs/Kanban Board.md",
-                    "kanbanViewState": {
-                      "kanban-plugin": "board",
-                      "list-collapse": [
-                        false,
-                        false,
-                        false,
-                        false,
-                        false
-                      ]
-                    }
-                  },
-                  "icon": "lucide-trello",
-                  "title": "Kanban Board"
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph-Ansicht"
                 }
               }
             ]
@@ -259,12 +247,13 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "ac866a3c33d5d4c3",
+  "active": "7b2155654fd96a68",
   "lastOpenFiles": [
+    "Unbenannt.base",
+    "docs/Kanban Board.md",
     "docs/Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
     "docs/Issues/ISSUE-000 — Projekt aufsetzen.md",
     "docs/Issues/ISSUE-003 — GLFW Fenster + erstes Vulkan Dreieck.md",
-    "docs/Kanban Board.md",
     "docs/Issues/ISSUE-002 — Modernes C++ Grundlagen üben.md",
     "PRD.md",
     "Unbenanntes Kanban.md",
@@ -286,7 +275,6 @@
     "docs/Issues/ISSUE-006 — ECS Integration mit entt.md",
     "docs/Issues/ISSUE-005 — Sprite Batching.md",
     "docs/Issues/ISSUE-004 — Texturierter Sprite-Renderer + orthografische Kamera.md",
-    "Claude/obsidian-projektmanagement-setup.md",
     "Claude",
     "docs/Issues",
     "src/dummy",
