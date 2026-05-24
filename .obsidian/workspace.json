@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
+                    "file": "Issues/ISSUE-000 — Projekt aufsetzen.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "ISSUE-001 — Entwicklungsumgebung aufsetzen"
+                  "title": "ISSUE-000 — Projekt aufsetzen"
                 }
               }
             ]
@@ -254,9 +254,9 @@
   },
   "active": "ac866a3c33d5d4c3",
   "lastOpenFiles": [
+    "Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
     "Issues/ISSUE-008 — Tiled Tilemap laden und rendern.md",
     "Kanban Board.md",
-    "Issues/ISSUE-001 — Entwicklungsumgebung aufsetzen.md",
     "Issues/ISSUE-000 — Projekt aufsetzen.md",
     "Issues/ISSUE-002 — Modernes C++ Grundlagen üben.md",
     "Claude/projektplan.md",
